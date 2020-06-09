@@ -1,27 +1,13 @@
-# Project Name
+# Module 4 Coding Assignment
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+> Coursera course: HTML, CSS, and Javascript for Web Developers.
+.
 
 ## Built With
 
-- Major languages,
+- html, javascript
 - frameworks,
 - technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -37,21 +23,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
 ## Authors
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@githubhandle](https://github.com/Rocio01)
+- Twitter: [@twitterhandle](https://twitter.com/@rugiada8801)
+- Linkedin: [linkedin](https://www.linkedin.com/in/zulma-martinez-5247a31a8/)
 
 ## 🤝 Contributing
 
